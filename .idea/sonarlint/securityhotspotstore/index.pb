@@ -9,3 +9,7 @@ Q
 !contracts/usage-optimization.clar,c/b/cba176239a3f21922d65b977820d10b8f0e81c07
 P
  tests/usage-optimization.test.ts,4/5/455acf8997c68d4d2035760306cde4d9fe5b7e82
+O
+contracts/capacity-sharing.clar,5/1/51935aac73111dfba5b805ff1fc977695be4f3e6
+N
+tests/capacity-sharing.test.ts,5/6/5619362ad2164fe2f4bc5729b1819444c749c21e
