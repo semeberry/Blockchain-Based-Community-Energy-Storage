@@ -13,3 +13,7 @@ O
 contracts/capacity-sharing.clar,5/1/51935aac73111dfba5b805ff1fc977695be4f3e6
 N
 tests/capacity-sharing.test.ts,5/6/5619362ad2164fe2f4bc5729b1819444c749c21e
+O
+contracts/maintenance-fund.clar,6/0/60b9e401688662704d2e6d2241aea61bffa6266d
+N
+tests/maintenance-fund.test.ts,2/0/20cce0cc259466bef77b14763a85c6c7bde7a309
